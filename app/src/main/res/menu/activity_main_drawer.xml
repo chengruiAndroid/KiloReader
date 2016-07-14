@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/settings"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/zhihu_module"
+            android:icon="@drawable/ic_g_translate_black_24dp"
+            android:title="@string/zhihu_hot_new"/>
+        <item
+            android:id="@+id/baidejie_module"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="@string/baidejie_image_new"/>
+        <item
+            android:id="@+id/meizi_module"
+            android:icon="@drawable/ic_pregnant_woman_black_24dp"
+            android:title="@string/meizi_image_new"/>
+        <item
+            android:id="@+id/nav_night"
+            android:icon="@drawable/ic_local_library_black_24dp"
+            android:title="@string/night_mode"/>
+        <item
+            android:id="@+id/nav_change"
+            android:icon="@drawable/ic_sort_black_24dp"
+            android:title="@string/change_column"/>
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/setting"/>
+    </group>
+
+</menu>

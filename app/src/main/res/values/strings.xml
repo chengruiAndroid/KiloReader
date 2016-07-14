@@ -1,0 +1,19 @@
+<resources>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="app_name">千阅</string>
+    <string name="default_description">生活的美好，需要你用心去发现，用眼去摄录</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="zhihu_hot_new">知乎热闻</string>
+    <string name="change_column">更改栏目</string>
+    <string name="setting">设置</string>
+    <string name="main_activity_name">千篇一阅</string>
+    <string name="baidejie_image_new">百思不得姐</string>
+    <string name="meizi_image_new">豆瓣妹子</string>
+
+
+
+    <string name="common_loading_error">加载失败，请检查网络！</string>
+    <string name="comon_retry">重试</string>
+</resources>

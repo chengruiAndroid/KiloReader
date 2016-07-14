@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/color_theme</item>
+        <item name="colorPrimaryDark">@color/color_theme</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="titleTextColor">@color/app_white</item>
+        <item name="android:windowBackground">@color/app_window_bg</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="colorControlNormal">@color/app_white</item>
+    </style>
+
+
+
+
+
+    <style name="ShrinkPreText">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="ShrinkAfterText">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+
+    <style name="AppTheme.FullScreen">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+</resources>

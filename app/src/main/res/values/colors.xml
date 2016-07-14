@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#95E1D3</color>
+    <color name="app_gray">#F5F5F5</color>
+    <color name="app_white">#FFFFFF</color>
+    <color name="color_theme">#F38181</color>
+    <color name="color_bar">#f5a497</color>
+    <color name="md_dark_appbar">#212121</color>
+    <color name="app_window_bg">#F3F3F3</color>
+    <color name="color_refresh_bg">#d0fce38a</color>
+    <color name="color_black">#e5000000</color>
+    <color name="color_jinse">#FFD700</color>
+    <color name="cardview_bg">#6b6b6b</color>
+</resources>

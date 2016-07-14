@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wantide.cr_chen.kiloreader.ui.view.CustomMaterialRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/meizi_refresh"
+    app:wave_color="@color/color_refresh_bg"
+    app:wave_height_type="normal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/meizi_news_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical">
+    </android.support.v7.widget.RecyclerView>
+
+</com.wantide.cr_chen.kiloreader.ui.view.CustomMaterialRefreshLayout>
